@@ -1,0 +1,67 @@
+body {
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "imperial, georgia, times new roman";
+    font-size: 20px;
+    line-height: 1.4;
+    color: #333333;
+}
+
+.italics {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "Cheltenham. Georgia, Times New Roman"
+}
+
+h2 {
+    font-size: 23px;
+    font-weight: lighter;
+}
+
+img {
+    width: 100%;
+}
+
+.imgIcon {
+    width: 50px;
+}
+
+.blackLink {
+    color: black;
+}
+
+a {
+    color: #326891;
+}
+
+.centerLink {
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+}
+
+h4 {
+    width: 50%;
+    margin-right: 100%;
+    font-size: 13px;
+    font-family: Helvetica, Arial, 'Sans Serif';
+    color: grey;
+}
+
+h5 {
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    line-height: 0.1
+}
+
+h6 {
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+}
